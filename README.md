@@ -1,3 +1,5 @@
+﻿localhost db_name t3test2 init liegt im root
+
 TYPO3 CMS
 =========
 
