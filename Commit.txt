@@ -1,1 +1,0 @@
-git commit --author <Monster.duc monsterduc@hotmail.de> ''
